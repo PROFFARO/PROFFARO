@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **C, C++, MySQL, JAVA, Bash Scripting, Shell Scripting**
 
-- 👯 I’m looking to collaborate on **Operating System Security**
+- 👯 I’m looking to collaborate on **Operating System**
 
 - 🤝 I’m looking for help with **AI/ML**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **dayabindhani2005@gmail.com**
 
-- ⚡ Fun fact **I think I'm a Security Developer Having pure knowledge**
+- ⚡ Fun fact **I think I'm a Security Developer Having poor knowledge**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
