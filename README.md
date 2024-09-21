@@ -1,23 +1,17 @@
 <h1 align="center">Hi 👋, I'm Dayananda Bindhani</h1>
-<h3 align="center">Passionate coder skilled in C, C++, Java, MySQL, Bash, and Shell scripting. Committed to innovation and collaborative projects</h3>
+<h3 align="center">Passionate coder skilled in C, C++, Python, Java, MySQL. Committed to innovation and collaborative projects</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=proffaro&label=Profile%20views&color=0e75b6&style=flat" alt="proffaro" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=proffaro" alt="proffaro" /></a> </p>
 
-- 🔭 I’m currently working on **Bash Scripting**
-
-- 🌱 I’m currently learning **C, C++, MySQL, JAVA, Bash Scripting, Shell Scripting**
-
-- 👯 I’m looking to collaborate on **Operating System**
-
+- 🔭 I’m currently working on **Kernel Development**
+- 
 - 🤝 I’m looking for help with **AI/ML**
 
-- 💬 Ask me about **Linux Command, Firmware analysis, OOPS concept**
+- 💬 Ask me about **Linux Command, Firmware, OOPS concept**
 
 - 📫 How to reach me **dayabindhani2005@gmail.com**
-
-- ⚡ Fun fact **I think I'm a Security Developer Having poor knowledge**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
