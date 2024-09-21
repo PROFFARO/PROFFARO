@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=proffaro" alt="proffaro" /></a> </p>
 
 - 🔭 I’m currently working on **Kernel Development**
-- 
+
 - 🤝 I’m looking for help with **AI/ML**
 
 - 💬 Ask me about **Linux Command, Firmware, OOPS concept**
