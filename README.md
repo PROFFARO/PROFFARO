@@ -1,115 +1,238 @@
 <div align="center">
 
-<!-- Header with animated typing effect concept -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dayananda%20Bindhani&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cybersecurity%20Student%20%7C%20Software%20Developer%20%7C%20Programmer&descSize=16&descAlignY=51" width="100%"/>
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=DAYANANDA%20BINDHANI&fontSize=70&color=0:667eea,50:764ba2,100:f093fb&stroke=667eea&strokeWidth=2&fontColor=fff&animation=fadeIn&desc=Cybersecurity%20Student%20%7C%20Software%20Developer%20%7C%20Low-Level%20Programmer&descSize=20&descAlignY=65" width="100%"/>
 
-<br/>
+</div>
 
-<!-- Typing SVG -->
+<!-- Animated Typing Effect -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=60&lines=Low Level+Programming+%7C+Problem+Solver;Building+Security+%26+Applications;Open+Source+Contributor+%26+Innovator" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=4000&pause=1000&color=667EEA&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=Low+Level+Programming+%7C+Security+Expert;Building+Secure+%26+Scalable+Systems;AI%2FML+%7C+Cloud+Architecture+%7C+Open+Source" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- Social Badges with custom styling -->
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<!-- Social Connect Section with Hover Effects -->
+<div align="center">
+
+### 🌐 **Connect With Me**
+
 <p align="center">
   <a href="https://github.com/proffaro">
-    <img src="https://img.shields.io/badge/GitHub-proffaro-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=181717" alt="GitHub" height="40"/>
   </a>
   <a href="https://www.linkedin.com/in/dayananda-bindhani-b05920250">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"/>
   </a>
   <a href="mailto:dayabindhani2005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="40"/>
+  </a>
+  <a href="https://leetcode.com/proffaro">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" height="40"/>
+  </a>
+  <a href="https://stackoverflow.com/users/proffaro">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" height="40"/>
   </a>
 </p>
 
-<!-- Profile Stats -->
+<!-- Dynamic Profile Metrics -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=proffaro&label=Profile%20Views&color=58A6FF&style=for-the-badge&labelColor=1F6FEB" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/proffaro?label=Followers&style=for-the-badge&color=58A6FF&labelColor=1F6FEB&logo=github" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/proffaro?label=Stars&style=for-the-badge&color=FFA500&labelColor=FF8C00&logo=github" alt="Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=proffaro&label=Profile%20Views&color=667eea&style=for-the-badge&labelColor=764ba2" alt="Profile Views" height="28"/>
+  <img src="https://img.shields.io/github/followers/proffaro?label=Followers&style=for-the-badge&color=667eea&labelColor=764ba2&logo=github" alt="Followers" height="28"/>
+  <img src="https://img.shields.io/github/stars/proffaro?label=Total%20Stars&style=for-the-badge&color=f093fb&labelColor=764ba2&logo=github" alt="Stars" height="28"/>
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-success?style=for-the-badge&logo=security&logoColor=white" alt="Focus" height="28"/>
 </p>
 
 </div>
 
 <br/>
 
-<!-- About Section with modern design -->
+<!-- Interactive About Section -->
 <div align="center">
-  
-## 🚀 `$ whoami`
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🚀 **`$ cat /dev/about/dayananda`**
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
 
 </div>
 
-```typescript
-const dayananda = {
-    name: "Dayananda Bindhani",
-    title: "Software Engineer & Cybersecurity Student",
-    location: "India 🇮🇳",
+<!-- Dynamic Terminal-Style About -->
+<div align="center">
+
+```bash
+┌──(dayananda㉿kali)-[~/profile]
+└─$ ./whoami.sh --verbose
+
+[+] Initializing profile...
+[✓] Loading credentials...
+[✓] Establishing secure connection...
+```
+
+</div>
+
+```python
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+class CybersecurityEngineer:
+    def __init__(self):
+        self.name = "Dayananda Bindhani"
+        self.role = "Software Developer & Cybersecurity Student"
+        self.location = "🇮🇳 India"
+        self.languages_spoken = ["English", "Hindi", "Odia"]
+        
+    def education(self):
+        return {
+            "degree": "B.Tech in Cybersecurity",
+            "specialization": [
+                "🔐 Penetration Testing & Ethical Hacking",
+                "🛡️ Network Security & Cryptography",
+                "🔍 Vulnerability Assessment & Analysis",
+                "🎯 Threat Intelligence & Incident Response"
+            ],
+            "certifications": ["CEH (in progress)", "CompTIA Security+"]
+        }
     
-    education: {
-        degree: "Cybersecurity",
-        focus: ["Penetration Testing", "Network Security", "Cryptography"]
-    },
+    def current_projects(self):
+        return {
+            "nexus": {
+                "description": "🍯 AI-Powered Honeypot System",
+                "tech_stack": ["Python", "TensorFlow", "Docker", "Flask"],
+                "features": [
+                    "Machine Learning-based threat detection",
+                    "Real-time attack pattern analysis",
+                    "Automated incident response",
+                    "Distributed honeypot network"
+                ],
+                "status": "🚧 In Active Development",
+                "github": "github.com/proffaro/nexus"
+            }
+        }
     
-    currentProject: {
-        name: "nexus",
-        description: "AI based honeypot mechanism",
-        tech: ["Python", "Machine Learning", "Docker"]
-    },
+    def technical_expertise(self):
+        return {
+            "low_level_programming": {
+                "languages": ["C", "C++", "Assembly"],
+                "focus": ["Memory Management", "System Calls", "Kernel Development"]
+            },
+            "security": {
+                "tools": ["Metasploit", "Burp Suite", "Wireshark", "Nmap"],
+                "skills": ["Web App Pentesting", "Network Analysis", "Exploit Development"]
+            },
+            "cloud_devops": {
+                "platforms": ["Google Cloud Platform", "AWS"],
+                "tools": ["Docker", "Git", "Linux", "Nginx"]
+            },
+            "ai_ml": {
+                "frameworks": ["TensorFlow", "PyTorch", "Scikit-learn"],
+                "applications": ["Threat Detection", "Anomaly Detection", "Pattern Recognition"]
+            }
+        }
     
-    interests: [
-        "Systems Programming",
-        "Cloud Infrastructure", 
-        "AI/ML Integration",
-        "Open Source Contribution",
-        "Low Level Programming"
-    ],
+    def current_focus(self):
+        return {
+            "learning": [
+                "🦀 Rust Programming Language",
+                "🧠 Advanced ML Algorithms for Security",
+                "🐧 Linux Kernel Development",
+                "☁️ Cloud-Native Security Architecture"
+            ],
+            "working_on": [
+                "Building AI-based honeypot (nexus)",
+                "Contributing to Open Source Security Tools",
+                "Developing Cloud-Native Applications",
+                "Writing Technical Security Blogs"
+            ],
+            "collaboration": [
+                "AI/ML Security Projects",
+                "Open Source Cybersecurity Tools",
+                "Penetration Testing Frameworks",
+                "Security Research & Development"
+            ]
+        }
     
-    philosophy: "Skills matter more than degrees",
+    def philosophy(self):
+        return "💡 Skills matter more than degrees | 🎯 Security is not a product, but a process"
     
-    workingOn: ["AI based honeypot", "Cloud-Native Apps", "Security Tools"],
-    learning: ["Advanced ML Algorithms", "Rust", "Low Level Programming", "Open Source Linux kernel development"],
-    
-    askMeAbout: [
-        "Low Level Programming",
-        "Firmware Development",
-        "OOP Design Patterns",
-        "Network Protocols",
-        "OS Internals"
-    ]
-};
+    def ask_me_about(self):
+        return [
+            "🔧 Low-Level Programming & System Architecture",
+            "🛡️ Penetration Testing & Vulnerability Assessment",
+            "🏗️ Object-Oriented Design Patterns",
+            "🌐 Network Protocols & Security",
+            "💻 Operating System Internals",
+            "🐳 Containerization & DevOps",
+            "🤖 AI/ML in Cybersecurity"
+        ]
+
+# Initialize Profile
+if __name__ == "__main__":
+    dev = CybersecurityEngineer()
+    print(f"👨‍💻 {dev.name} | {dev.role}")
+    print(f"📍 {dev.location}")
+    print(f"💭 {dev.philosophy()}")
+    print("\n[✓] Profile loaded successfully!")
+    print("[✓] Ready to collaborate and innovate! 🚀")
 ```
 
 <div align="center">
 
-### 🎯 **Current Mission**
+```bash
+└─$ cat status.log
+
+[INFO] Status: Available for collaboration
+[INFO] Response Time: Usually within 24 hours
+[INFO] Preferred Contact: Email or LinkedIn
+[SUCCESS] System ready for connection!
+```
+
+</div>
+
+<br/>
+
+<!-- Animated Mission Cards -->
+<div align="center">
+
+### 🎯 **Current Mission Control**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 </div>
 
 <table align="center">
   <tr>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/000000/code.png" width="64" alt="Building"/>
-      <br/><b>Building</b>
-      <br/><sub>nexus - AI based honeypot</sub>
+    <td align="center" width="25%" style="border: 2px solid #667eea; border-radius: 10px;">
+      <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" alt="Building"/>
+      <br/><br/>
+      <b>🏗️ Building</b>
+      <br/><sub><i>nexus - AI Honeypot</i></sub>
+      <br/><sub>ML-powered threat detection</sub>
     </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="64" alt="AI/ML"/>
-      <br/><b>Exploring</b>
-      <br/><sub>AI/ML & Deep Learning & Nural Networking</sub>
+    <td align="center" width="25%" style="border: 2px solid #764ba2; border-radius: 10px;">
+      <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100" alt="AI/ML"/>
+      <br/><br/>
+      <b>🧠 Exploring</b>
+      <br/><sub><i>AI/ML & Deep Learning</i></sub>
+      <br/><sub>Neural Networks & Security</sub>
     </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/000000/cloud.png" width="64" alt="Cloud"/>
-      <br/><b>Architecting</b>
-      <br/><sub>Cloud-Native Solutions</sub>
+    <td align="center" width="25%" style="border: 2px solid #f093fb; border-radius: 10px;">
+      <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100" alt="Cloud"/>
+      <br/><br/>
+      <b>☁️ Architecting</b>
+      <br/><sub><i>Cloud-Native Solutions</i></sub>
+      <br/><sub>Scalable & Secure Systems</sub>
     </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/000000/security-checked.png" width="64" alt="Security"/>
-      <br/><b>Securing</b>
-      <br/><sub>Bussiness Security</sub>
+    <td align="center" width="25%" style="border: 2px solid #667eea; border-radius: 10px;">
+      <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100" alt="Security"/>
+      <br/><br/>
+      <b>🔐 Securing</b>
+      <br/><sub><i>Business Security</i></sub>
+      <br/><sub>Pentesting & Hardening</sub>
     </td>
   </tr>
 </table>
@@ -120,111 +243,270 @@ const dayananda = {
 
 <div align="center">
 
-## 💻 **Tech Arsenal** 
+## 💻 **Tech Arsenal & Weaponry** 
+
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
 
 </div>
 
-### **⚡ Programming Languages**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,bash,cs,html,css,js&theme=dark&perline=9" />
-</p>
+### **⚡ Programming Languages Mastery**
 
 <div align="center">
 
-| Language | Proficiency | Use Case |
-|:--------:|:-----------:|:--------:|
-| ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) | `████████████████████░` 95% | Systems Programming |
-| ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) | `████████████████████░` 95% | High Performance Apps |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | `███████████████████░░` 90% | AI/ML & Automation |
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) | `██████████████████░░░` 85% | Enterprise Solutions |
-| ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white) | `███████████████████░░` 90% | DevOps & Scripting |
-| ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white) | `███████████░░░░░░░░░░` 55% | .NET Development |
-| ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) | `██████████████████░░░` 85% | Database Management |
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,bash,cs,html,css,js,rust&theme=dark&perline=10" />
+
+<br/><br/>
+
+<table>
+  <tr>
+    <th>Language</th>
+    <th>Proficiency Level</th>
+    <th>Primary Use Case</th>
+    <th>Years</th>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C"/></td>
+    <td>
+      <img src="https://progress-bar.dev/95/?scale=100&title=Expert&width=200&color=00599C" alt="95%"/>
+    </td>
+    <td>Systems Programming</td>
+    <td>4+ years</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/></td>
+    <td>
+      <img src="https://progress-bar.dev/95/?scale=100&title=Expert&width=200&color=00599C" alt="95%"/>
+    </td>
+    <td>High Performance Computing</td>
+    <td>4+ years</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/></td>
+    <td>
+      <img src="https://progress-bar.dev/90/?scale=100&title=Advanced&width=200&color=3776AB" alt="90%"/>
+    </td>
+    <td>AI/ML & Security Automation</td>
+    <td>3+ years</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/></td>
+    <td>
+      <img src="https://progress-bar.dev/85/?scale=100&title=Advanced&width=200&color=ED8B00" alt="85%"/>
+    </td>
+    <td>Enterprise Applications</td>
+    <td>3+ years</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash"/></td>
+    <td>
+      <img src="https://progress-bar.dev/90/?scale=100&title=Advanced&width=200&color=4EAA25" alt="90%"/>
+    </td>
+    <td>DevOps & System Automation</td>
+    <td>4+ years</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#"/></td>
+    <td>
+      <img src="https://progress-bar.dev/55/?scale=100&title=Intermediate&width=200&color=239120" alt="55%"/>
+    </td>
+    <td>.NET Development</td>
+    <td>2+ years</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/></td>
+    <td>
+      <img src="https://progress-bar.dev/85/?scale=100&title=Advanced&width=200&color=4479A1" alt="85%"/>
+    </td>
+    <td>Database Management</td>
+    <td>3+ years</td>
+  </tr>
+</table>
 
 </div>
 
-### **🛠️ Technologies & Tools**
-
-<details open>
-<summary><b>🔧 Development Tools</b></summary>
 <br/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vim,linux,docker,nginx&theme=dark" />
-</p>
+### **🛠️ Technologies & Development Stack**
 
 <div align="center">
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
 
 </div>
 
-</details>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<details open>
-<summary><b>☁️ Cloud & Infrastructure</b></summary>
+#### 🔧 **Development Environment**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vim,linux,docker,nginx,postman&theme=dark" />
+</p>
+
+```yaml
+tools:
+  version_control:
+    - Git (Advanced)
+    - GitHub (CI/CD, Actions)
+  
+  editors:
+    - VS Code (Primary)
+    - Vim/Neovim (Terminal)
+  
+  os:
+    - Linux (Kali, Ubuntu, Arch)
+    - Windows (Development)
+  
+  containers:
+    - Docker & Docker Compose
+    - Container Security
+```
+
+</td>
+<td width="50%" valign="top">
+
+#### ☁️ **Cloud & Infrastructure**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=gcp,aws,firebase,netlify&theme=dark" />
+</p>
+
+```yaml
+platforms:
+  cloud_providers:
+    - Google Cloud Platform
+    - Amazon Web Services
+  
+  services:
+    - Compute Engine
+    - Cloud Storage
+    - Lambda Functions
+    - API Gateway
+  
+  deployment:
+    - Firebase Hosting
+    - Netlify
+```
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+#### 🗄️ **Databases & Storage**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite,redis&theme=dark" />
+</p>
+
+```sql
+-- Database Expertise
+SELECT skill FROM databases
+WHERE proficiency >= 'Advanced'
+ORDER BY experience DESC;
+
+/* Results:
+   - MySQL (Relational)
+   - PostgreSQL (Advanced SQL)
+   - MongoDB (NoSQL)
+   - SQLite (Embedded)
+   - Redis (Caching)
+*/
+```
+
+</td>
+<td width="50%" valign="top">
+
+#### 🤖 **AI/ML Frameworks**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
+</p>
+
+```python
+ml_stack = {
+    "frameworks": [
+        "TensorFlow",
+        "PyTorch",
+        "Scikit-learn",
+        "Keras"
+    ],
+    "applications": [
+        "Threat Detection",
+        "Anomaly Detection",
+        "Pattern Recognition",
+        "Predictive Analysis"
+    ]
+}
+```
+
+</td>
+</tr>
+</table>
+
 <br/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=gcp,aws&theme=dark" />
-</p>
+### **🔐 Cybersecurity Arsenal**
 
 <div align="center">
 
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+
+#### **Penetration Testing & Security Tools**
 
 </div>
 
-</details>
-
-<details open>
-<summary><b>🗄️ Databases & Storage</b></summary>
-<br/>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite&theme=dark" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="20%">
+      <img src="https://img.icons8.com/color/96/000000/kali-linux.png" width="64"/><br/>
+      <b>Kali Linux</b><br/>
+      <sub>Primary OS</sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.icons8.com/color/96/000000/metasploit.png" width="64"/><br/>
+      <b>Metasploit</b><br/>
+      <sub>Exploitation</sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.icons8.com/color/96/000000/burp-suite.png" width="64"/><br/>
+      <b>Burp Suite</b><br/>
+      <sub>Web Testing</sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.icons8.com/color/96/000000/wireshark.png" width="64"/><br/>
+      <b>Wireshark</b><br/>
+      <sub>Network Analysis</sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.icons8.com/color/96/000000/nmap.png" width="64"/><br/>
+      <b>Nmap</b><br/>
+      <sub>Port Scanning</sub>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-00BFB3?style=for-the-badge&logo=sqlite&logoColor=white)
+```bash
+# Security Tools Inventory
+┌─────────────────────────────────────────────────────────────┐
+│ Category          │ Tools                                    │
+├─────────────────────────────────────────────────────────────┤
+│ 🔍 Reconnaissance │ Nmap, Masscan, Shodan, theHarvester    │
+│ 🕵️ Scanning       │ Nessus, OpenVAS, Nikto, WPScan         │
+│ 💥 Exploitation   │ Metasploit, SQLMap, BeEF, Hydra        │
+│ 🌐 Web Testing    │ Burp Suite, OWASP ZAP, Nikto           │
+│ 📡 Network        │ Wireshark, tcpdump, Netcat, Ettercap   │
+│ 🔓 Password       │ John the Ripper, Hashcat, Hydra        │
+│ 🔐 Cryptography   │ OpenSSL, GPG, HashID                    │
+│ 📝 Reporting      │ Dradis, Faraday, KeepNote              │
+└─────────────────────────────────────────────────────────────┘
+```
 
 </div>
-
-</details>
-
-<details open>
-<summary><b>🔐 Security & Networking</b></summary>
-<br/>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=wireshark,metasploit,burpsuite,nmap,openssl,beef,nikto,hydra,sqlmap,&theme=dark" />
-</p>
-
-<div align="center">
-
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
-![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white)
-![Beef](https://img.shields.io/badge/Beef-2596CD?style=for-the-badge&logo=beef&logoColor=white)
-![Nikto](https://img.shields.io/badge/Nikto-FF6633?style=for-the-badge&logo=nikto&logoColor=white)
-![Hydra](https://img.shields.io/badge/Hydra-0E83CD?style=for-the-badge&logo=hydra&logoColor=white)
-![SQLMap](https://img.shields.io/badge/SQLMap-721412?style=for-the-badge&logo=sqlmap&logoColor=white)
-
-</div>
-
-</details>
 
 ### **🎓 Domain Expertise**
 
@@ -345,66 +627,78 @@ security := map[string][]string{
 
 <div align="center">
 
-## 📊 **GitHub Analytics & Metrics**
+## 📊 **GitHub Analytics & Performance Metrics**
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+
+### 📈 **Real-Time Statistics Dashboard**
 
 </div>
 
 <div align="center">
-  
-### 📈 **Performance Dashboard**
 
-<table>
+```ascii
+╔══════════════════════════════════════════════════════════════╗
+║                    GITHUB PERFORMANCE METRICS                 ║
+╠══════════════════════════════════════════════════════════════╣
+║  Status: Active Developer  │  Availability: Open to Collab   ║
+║  Focus: Cybersecurity      │  Learning: Rust & Kernel Dev    ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<table align="center" width="100%">
   <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=proffaro&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF&ring_color=F85D7F&fire_color=F85D7F" alt="GitHub Stats" width="100%" />
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=proffaro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=667eea&text_color=FFFFFF&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%" />
     </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=proffaro&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=8B8B8B" alt="GitHub Streak" width="100%" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=proffaro&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&layout=compact&langs_count=10&card_width=400" alt="Top Languages" width="100%" />
+    <td align="center" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=proffaro&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=667eea&fire=f093fb&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=8B8B8B&border_radius=10" alt="GitHub Streak" width="100%" />
     </td>
   </tr>
 </table>
 
-### 🏆 **Achievement Showcase**
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=proffaro&theme=radical&no-frame=true&no-bg=false&margin-w=4&margin-h=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
-</p>
+### 💻 **Language Distribution & Expertise**
 
-### 📉 **Contribution Graph**
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=proffaro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=FFFFFF&layout=donut-vertical&langs_count=12&card_width=400&border_radius=10" alt="Top Languages" />
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=proffaro&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area_color=F85D7F" alt="Contribution Graph" width="95%" />
-</p>
+### 🏆 **Achievement Unlocked**
 
-### 🎯 **Code Metrics**
+<img src="https://github-profile-trophy.vercel.app/?username=proffaro&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&margin-h=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A&border_color=667eea" alt="GitHub Trophies" />
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=proffaro&theme=radical" alt="Profile Summary" width="95%" />
-</p>
+### � **Contribution Activity Graph**
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=proffaro&custom_title=Contribution%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=0D1117&color=667eea&line=667eea&point=f093fb&area_color=667eea&title_color=667eea&area=true" width="95%" alt="Contribution Graph" />
+
+### 🎯 **Detailed Code Analytics**
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=proffaro&theme=tokyonight" alt="Profile Details" width="95%" />
 
 <table align="center">
   <tr>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=proffaro&theme=radical" alt="Repos per Language" />
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=proffaro&theme=tokyonight" alt="Repos per Language" width="100%" />
     </td>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=proffaro&theme=radical" alt="Most Commit Language" />
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=proffaro&theme=tokyonight" alt="Most Commit Language" width="100%" />
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=proffaro&theme=radical" alt="Stats" />
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=proffaro&theme=tokyonight" alt="Stats" width="100%" />
     </td>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=proffaro&theme=radical&utcOffset=5.5" alt="Productive Time" />
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=proffaro&theme=tokyonight&utcOffset=5.5" alt="Productive Time" width="100%" />
     </td>
   </tr>
 </table>
+
+### 📈 **Contribution Heatmap**
+
+<img src="https://ghchart.rshah.org/667eea/proffaro" alt="GitHub Contribution Chart" width="95%" />
 
 </div>
 
@@ -414,53 +708,74 @@ security := map[string][]string{
 
 <div align="center">
 
-## 🤝 **Let's Connect & Collaborate**
+## 🤝 **Let's Connect & Build Together**
 
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" alt="Coding"/>
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="250" alt="Coding"/>
 
-### 💬 **Open to Collaboration on Innovative Projects!**
+### 💬 **Open to Collaboration on Cutting-Edge Projects!**
+
+</div>
+
+```bash
+$ echo "Available for:"
+> Cybersecurity Research & Development
+> AI/ML Security Projects  
+> Open Source Contributions
+> Low-Level System Programming
+> Penetration Testing & Security Audits
+```
+
+<div align="center">
+
+### 🎯 **Areas of Collaboration**
 
 </div>
 
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/96/000000/linux--v1.png" width="64" alt="Linux"/>
-      <br/><b>Linux & Systems</b>
+      <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80"/><br/>
+      <b>🐧 Linux & Systems</b>
       <br/><sub>System Administration</sub>
-      <br/><sub>Command-Line Tools</sub>
+      <br/><sub>Kernel Development</sub>
+      <br/><sub>Low-Level Programming</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/96/000000/source-code.png" width="64" alt="Code"/>
-      <br/><b>Software Development</b>
-      <br/><sub>OOP Design Patterns</sub>
-      <br/><sub>Scalable Architecture</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/96/000000/network.png" width="64" alt="Network"/>
-      <br/><b>Networking & Security</b>
-      <br/><sub>Network Protocols</sub>
+      <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80"/><br/>
+      <b>🔐 Cybersecurity</b>
       <br/><sub>Penetration Testing</sub>
+      <br/><sub>Vulnerability Assessment</sub>
+      <br/><sub>Security Research</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"/><br/>
+      <b>☁️ Cloud & DevOps</b>
+      <br/><sub>Infrastructure Design</sub>
+      <br/><sub>Container Security</sub>
+      <br/><sub>CI/CD Pipelines</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/96/000000/firmware.png" width="64" alt="Firmware"/>
-      <br/><b>Embedded Systems</b>
-      <br/><sub>Firmware Development</sub>
-      <br/><sub>Hardware Interfacing</sub>
+      <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80"/><br/>
+      <b>🤖 AI/ML Security</b>
+      <br/><sub>Threat Detection</sub>
+      <br/><sub>Anomaly Detection</sub>
+      <br/><sub>Predictive Analysis</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/96/000000/operating-system.png" width="64" alt="OS"/>
-      <br/><b>OS Internals</b>
-      <br/><sub>Kernel Development</sub>
-      <br/><sub>System Architecture</sub>
+      <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80"/><br/>
+      <b>🏗️ Software Architecture</b>
+      <br/><sub>Design Patterns</sub>
+      <br/><sub>Scalable Systems</sub>
+      <br/><sub>Microservices</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/96/000000/cloud.png" width="64" alt="Cloud"/>
-      <br/><b>Cloud Computing</b>
-      <br/><sub>Infrastructure Design</sub>
-      <br/><sub>DevOps Practices</sub>
+      <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80"/><br/>
+      <b>🌐 Network Security</b>
+      <br/><sub>Protocol Analysis</sub>
+      <br/><sub>Network Forensics</sub>
+      <br/><sub>Traffic Monitoring</sub>
     </td>
   </tr>
 </table>
@@ -469,25 +784,44 @@ security := map[string][]string{
 
 <div align="center">
 
-### 📫 **Get In Touch**
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<p>
+### 📫 **Reach Out & Connect**
+
+<p align="center">
   <a href="https://www.linkedin.com/in/dayananda-bindhani-b05920250">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" height="35"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" height="40"/>
   </a>
   <a href="mailto:dayabindhani2005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail" height="35"/>
+    <img src="https://img.shields.io/badge/Gmail-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Gmail" height="40"/>
   </a>
   <a href="https://github.com/proffaro">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" height="35"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e" alt="GitHub" height="40"/>
+  </a>
+  <a href="https://leetcode.com/proffaro">
+    <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116" alt="LeetCode" height="40"/>
   </a>
 </p>
 
-### 💭 **Daily Dev Quote**
+```python
+# Contact Information
+contact = {
+    "email": "dayabindhani2005@gmail.com",
+    "linkedin": "linkedin.com/in/dayananda-bindhani-b05920250",
+    "github": "github.com/proffaro",
+    "response_time": "< 24 hours",
+    "availability": "Open for opportunities",
+    "timezone": "IST (UTC+5:30)"
+}
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Dev Quote" />
+print("💼 Let's build something amazing together!")
+```
 
-### 🐍 **Contribution Snake**
+### 💭 **Random Dev Quote**
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&border_color=667eea" alt="Dev Quote" />
+
+### 🐍 **Watch the Snake Eat My Contributions!**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/proffaro/proffaro/output/github-contribution-grid-snake-dark.svg">
@@ -499,22 +833,41 @@ security := map[string][]string{
 
 <br/>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer&text=Thank%20You%20For%20Visiting!&fontSize=30&fontColor=fff&animation=twinkling" width="100%"/>
 
-### 🌟 **"Building the future, one commit at a time"** 🌟
+### 💫 **"Code is poetry written in logic"** 💫
 
-<p>
-  <img src="https://img.shields.io/badge/Made_with-❤️-red?style=for-the-badge" alt="Made with Love"/>
-  <img src="https://img.shields.io/badge/Powered_by-Coffee-brown?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Powered by Coffee"/>
-  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status Active"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Made_with-❤️_and_☕-red?style=for-the-badge&labelColor=764ba2&color=667eea" alt="Made with Love and Coffee"/>
+  <img src="https://img.shields.io/badge/Status-Always_Learning-success?style=for-the-badge&labelColor=764ba2&color=667eea&logo=buffer" alt="Always Learning"/>
+  <img src="https://img.shields.io/badge/Availability-Open_to_Collaborate-blue?style=for-the-badge&labelColor=764ba2&color=667eea&logo=handshake" alt="Open to Collaborate"/>
 </p>
 
-**⭐ From [proffaro](https://github.com/proffaro) | Thanks for visiting! Leave a star if you like my work! ⭐**
+```ascii
+╔════════════════════════════════════════════════════════════╗
+║  "In the world of cybersecurity, the only constant is     ║
+║   change. Stay curious, stay vigilant, stay secure."      ║
+╚════════════════════════════════════════════════════════════╝
+```
+
+**⭐ From [proffaro](https://github.com/proffaro) with 💜 | If you find my work interesting, consider leaving a star! ⭐**
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/proffaro/proffaro?style=flat-square&color=667eea&labelColor=764ba2" alt="Last Commit"/>
+  <img src="https://img.shields.io/github/commit-activity/m/proffaro/proffaro?style=flat-square&color=667eea&labelColor=764ba2" alt="Commit Activity"/>
+  <img src="https://img.shields.io/badge/Maintained%3F-Yes-success?style=flat-square&color=667eea&labelColor=764ba2" alt="Maintained"/>
+</p>
+
+---
+
+<sub>© 2024 Dayananda Bindhani | Cybersecurity Student | Software Developer | Open Source Enthusiast</sub>
 
 </div>
