@@ -1,14 +1,14 @@
 <div align="center">
 
 <!-- Header with animated typing effect concept -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dayananda%20Bindhani&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cybersecurity%20Student%20%7C%20Software%20Engineer%20%7C%20Systems%20Architect&descSize=16&descAlignY=51" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dayananda%20Bindhani&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cybersecurity%20Student%20%7C%20Software%20Developer%20%7C%20Programmer&descSize=16&descAlignY=51" width="100%"/>
 
 <br/>
 
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=60&lines=Systems+Programming+%7C+Cloud+Architecture;Building+Scalable+%26+Secure+Solutions;Open+Source+Contributor+%26+Innovator" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=60&lines=Low Level+Programming+%7C+Problem+Solver;Building+Security+%26+Applications;Open+Source+Contributor+%26+Innovator" alt="Typing SVG" />
   </a>
 </p>
 
@@ -17,7 +17,7 @@
   <a href="https://github.com/proffaro">
     <img src="https://img.shields.io/badge/GitHub-proffaro-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
   </a>
-  <a href="https://linkedin.com/in/dayananda">
+  <a href="https://www.linkedin.com/in/dayananda-bindhani-b05920250">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
   </a>
   <a href="mailto:dayabindhani2005@gmail.com">
@@ -56,25 +56,25 @@ const dayananda = {
     
     currentProject: {
         name: "nexus",
-        description: "Next-generation system architecture",
-        tech: ["C++", "Python", "Cloud Infrastructure"]
+        description: "AI based honeypot mechanism",
+        tech: ["Python", "Machine Learning", "Docker"]
     },
     
     interests: [
         "Systems Programming",
         "Cloud Infrastructure", 
         "AI/ML Integration",
-        "Open Source Contribution"
+        "Open Source Contribution",
+        "Low Level Programming"
     ],
     
-    philosophy: "Innovation through collaboration 💡",
+    philosophy: "Skills matter more than degrees",
     
-    workingOn: ["Distributed Systems", "Cloud-Native Apps", "Security Tools"],
-    learning: ["Advanced ML Algorithms", "Kubernetes", "Rust"],
-    collaborateOn: ["AI/ML Projects", "Security Tools", "Open Source"],
+    workingOn: ["AI based honeypot", "Cloud-Native Apps", "Security Tools"],
+    learning: ["Advanced ML Algorithms", "Rust", "Low Level Programming", "Open Source Linux kernel development"],
     
     askMeAbout: [
-        "Linux System Administration",
+        "Low Level Programming",
         "Firmware Development",
         "OOP Design Patterns",
         "Network Protocols",
@@ -94,12 +94,12 @@ const dayananda = {
     <td align="center" width="25%">
       <img src="https://img.icons8.com/fluency/96/000000/code.png" width="64" alt="Building"/>
       <br/><b>Building</b>
-      <br/><sub>nexus - System Architecture</sub>
+      <br/><sub>nexus - AI based honeypot</sub>
     </td>
     <td align="center" width="25%">
       <img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="64" alt="AI/ML"/>
       <br/><b>Exploring</b>
-      <br/><sub>AI/ML & Deep Learning</sub>
+      <br/><sub>AI/ML & Deep Learning & Nural Networking</sub>
     </td>
     <td align="center" width="25%">
       <img src="https://img.icons8.com/fluency/96/000000/cloud.png" width="64" alt="Cloud"/>
@@ -109,7 +109,7 @@ const dayananda = {
     <td align="center" width="25%">
       <img src="https://img.icons8.com/fluency/96/000000/security-checked.png" width="64" alt="Security"/>
       <br/><b>Securing</b>
-      <br/><sub>Systems & Networks</sub>
+      <br/><sub>Bussiness Security</sub>
     </td>
   </tr>
 </table>
@@ -139,7 +139,7 @@ const dayananda = {
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | `███████████████████░░` 90% | AI/ML & Automation |
 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) | `██████████████████░░░` 85% | Enterprise Solutions |
 | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white) | `███████████████████░░` 90% | DevOps & Scripting |
-| ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white) | `████████████████░░░░░` 75% | .NET Development |
+| ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white) | `███████████░░░░░░░░░░` 55% | .NET Development |
 | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) | `██████████████████░░░` 85% | Database Management |
 
 </div>
@@ -151,7 +151,7 @@ const dayananda = {
 <br/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vim,linux,docker,kubernetes,nginx&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vim,linux,docker,nginx&theme=dark" />
 </p>
 
 <div align="center">
@@ -161,7 +161,6 @@ const dayananda = {
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 </div>
 
@@ -172,15 +171,13 @@ const dayananda = {
 <br/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=gcp,azure,aws,terraform,ansible&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=gcp,aws&theme=dark" />
 </p>
 
 <div align="center">
 
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
 </div>
 
@@ -191,7 +188,7 @@ const dayananda = {
 <br/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,sqlite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite&theme=dark" />
 </p>
 
 <div align="center">
@@ -199,7 +196,7 @@ const dayananda = {
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-00BFB3?style=for-the-badge&logo=sqlite&logoColor=white)
 
 </div>
 
@@ -209,6 +206,10 @@ const dayananda = {
 <summary><b>🔐 Security & Networking</b></summary>
 <br/>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=wireshark,metasploit,burpsuite,nmap,openssl,beef,nikto,hydra,sqlmap,&theme=dark" />
+</p>
+
 <div align="center">
 
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
@@ -216,6 +217,10 @@ const dayananda = {
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
 ![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white)
+![Beef](https://img.shields.io/badge/Beef-2596CD?style=for-the-badge&logo=beef&logoColor=white)
+![Nikto](https://img.shields.io/badge/Nikto-FF6633?style=for-the-badge&logo=nikto&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-0E83CD?style=for-the-badge&logo=hydra&logoColor=white)
+![SQLMap](https://img.shields.io/badge/SQLMap-721412?style=for-the-badge&logo=sqlmap&logoColor=white)
 
 </div>
 
@@ -247,7 +252,6 @@ expertise = {
         "Embedded Systems",
         "Low-Level Programming",
         "Hardware Interfacing",
-        "RTOS Development"
     ]
 }
 ```
@@ -292,17 +296,14 @@ const skills = {
 cloud_expertise:
   platforms:
     - Google Cloud Platform (GCP)
-    - Microsoft Azure
     - Amazon Web Services (AWS)
   
   containerization:
     - Docker & Docker Compose
-    - Kubernetes Orchestration
     - Container Security
   
   automation:
     - CI/CD Pipelines
-    - Infrastructure as Code
     - Build Automation
     - Deployment Strategies
 ```
@@ -471,7 +472,7 @@ security := map[string][]string{
 ### 📫 **Get In Touch**
 
 <p>
-  <a href="https://linkedin.com/in/dayananda">
+  <a href="https://www.linkedin.com/in/dayananda-bindhani-b05920250">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" height="35"/>
   </a>
   <a href="mailto:dayabindhani2005@gmail.com">
@@ -479,12 +480,6 @@ security := map[string][]string{
   </a>
   <a href="https://github.com/proffaro">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" height="35"/>
-  </a>
-  <a href="https://twitter.com/proffaro">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter" height="35"/>
-  </a>
-  <a href="https://discord.gg/proffaro">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2" alt="Discord" height="35"/>
   </a>
 </p>
 
