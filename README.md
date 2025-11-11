@@ -784,7 +784,7 @@ print("💼 Let's build something amazing together!")
 
 ### 💭 **Random Dev Quote**
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&border_color=667eea" alt="Dev Quote" height="300"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&border_color=667eea" alt="Dev Quote" height="500"/>
 
 ### 🐍 **Watch the Snake Eat My Contributions!**
 
