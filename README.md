@@ -1,27 +1,188 @@
-<h1 align="center">Hi 👋, I'm Dayananda Bindhani</h1>
-<h3 align="center">Specifically have knowledge in these programming and scripting languages C, C++, Python, Java, bash, c#, git, mysql, Google Cloud. Committed to innovation and collaborative projects</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=proffaro&label=Profile%20views&color=0e75b6&style=flat" alt="proffaro" /> </p>
+# Dayananda Bindhani
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=proffaro" alt="proffaro" /></a> </p>
+### Software Engineer | Systems Architect | Open Source Contributor
 
-- 🔭 I’m currently working on **nexus**
+[![Profile Views](https://komarev.com/ghpvc/?username=proffaro&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/proffaro)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dayananda)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dayabindhani2005@gmail.com)
 
-- 🤝 I’m looking for help with **AI/ML**
+</div>
 
-- 💬 Ask me about **Linux Command, Firmware, OOPS concept,networking,OS**
+---
 
-- 📫 How to reach me **dayabindhani2005@gmail.com**
+## About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dayananda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dayananda" height="30" width="40" /></a>
+```yaml
+name: Dayananda Bindhani
+role: Software Engineer
+focus: ["Systems Programming", "Cloud Infrastructure", "AI/ML"]
+current_project: "nexus"
+location: "Building scalable solutions"
+philosophy: "Innovation through collaboration"
+```
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a></p>
+Passionate software engineer with expertise in **systems programming**, **cloud infrastructure**, and **distributed systems**. Committed to writing clean, efficient, and maintainable code while contributing to innovative open-source projects.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=proffaro&show_icons=true&locale=en&layout=compact" alt="proffaro" /></p>
+### Current Focus
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=proffaro&show_icons=true&locale=en" alt="proffaro" /></p>
+- Building: [nexus](https://github.com/proffaro/nexus) - Next-generation system architecture
+- Collaborating: Seeking contributors for AI/ML integration projects
+- Learning: Advanced machine learning algorithms and distributed systems
+- Exploring: Cloud-native architectures and DevOps automation
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=proffaro&" alt="proffaro" /></p>
+---
+
+## Technical Stack
+
+### Languages
+
+```text
+C/C++        ████████████████████░   95%
+Python       ███████████████████░░   90%
+Java         ██████████████████░░░   85%
+Bash/Shell   ███████████████████░░   90%
+C#           ████████████████░░░░░   75%
+SQL          ██████████████████░░░   85%
+```
+
+### Core Competencies
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="C" />
+      <br><strong>C</strong>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
+      <br><strong>C++</strong>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      <br><strong>Python</strong>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+      <br><strong>Java</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="48" height="48" alt="Bash" />
+      <br><strong>Bash</strong>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
+      <br><strong>Linux</strong>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="Git" />
+      <br><strong>Git</strong>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
+      <br><strong>MySQL</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="48" height="48" alt="GCP" />
+      <br><strong>Google Cloud</strong>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="48" height="48" alt=".NET" />
+      <br><strong>.NET</strong>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" width="48" height="48" alt="Nginx" />
+      <br><strong>Nginx</strong>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="48" height="48" alt="Docker" />
+      <br><strong>Docker</strong>
+    </td>
+  </tr>
+</table>
+
+### Expertise Areas
+
+<details>
+<summary><b>Systems & Infrastructure</b></summary>
+
+- **Operating Systems:** Linux kernel development, system calls, process management
+- **Networking:** TCP/IP, socket programming, network protocols
+- **Firmware:** Embedded systems, low-level programming, hardware interfacing
+- **DevOps:** CI/CD pipelines, containerization, infrastructure as code
+
+</details>
+
+<details>
+<summary><b>Software Engineering</b></summary>
+
+- **Design Patterns:** OOP principles, SOLID, design patterns
+- **Architecture:** Microservices, distributed systems, scalable architectures
+- **Databases:** SQL optimization, database design, query performance
+- **Version Control:** Git workflows, branching strategies, code review
+
+</details>
+
+<details>
+<summary><b>Cloud & DevOps</b></summary>
+
+- **Cloud Platforms:** Google Cloud Platform (GCP), cloud architecture
+- **Containerization:** Docker, container orchestration
+- **Automation:** Shell scripting, build automation, deployment pipelines
+- **Monitoring:** System monitoring, logging, performance optimization
+
+</details>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=proffaro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=proffaro&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=proffaro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&layout=compact&langs_count=8" alt="Top Languages" width="49%" />
+<img src="https://github-profile-trophy.vercel.app/?username=proffaro&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" width="49%" />
+
+</div>
+
+---
+
+## Let's Connect
+
+<div align="center">
+
+### Open to collaboration on innovative projects!
+
+**Ask me about:**
+- Linux system administration and command-line tools
+- Firmware development and embedded systems
+- Object-oriented programming and design patterns
+- Networking protocols and distributed systems
+- Operating system internals and architecture
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dayananda_Bindhani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dayananda)
+[![Email](https://img.shields.io/badge/Email-dayabindhani2005%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dayabindhani2005@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-proffaro-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/proffaro)
+
+</div>
+
+---
+
+<div align="center">
+
+### Developer Quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+** From [proffaro](https://github.com/proffaro) | Building the future, one commit at a time**
+
+</div>
