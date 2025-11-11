@@ -8,7 +8,7 @@
 <!-- Animated Typing Effect -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=4000&pause=1000&color=667EEA&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=200&lines=Low+Level+Programming+%7C+Security+Expert;Building+Secure+%26+Scalable+Systems;AI%2FML+%7C+Cloud+Architecture+%7C+Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=4000&pause=1000&color=667EEA&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=200&lines=Low+Level+Programming+%7C+Security+Expert;Building+Secure+%26+Scalable+Systems;AI%2FML+%7C+Cloud+Architecture+%7C+Open+Source+Contributor" alt="Typing SVG" />
   </a>
 </p>
 
@@ -784,7 +784,7 @@ print("💼 Let's build something amazing together!")
 
 ### 💭 **Random Dev Quote**
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&border_color=667eea" alt="Dev Quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&border_color=667eea" alt="Dev Quote" height="300"/>
 
 ### 🐍 **Watch the Snake Eat My Contributions!**
 
