@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dayananda Bindhani</h1>
-<h3 align="center">specifically have knowledge in these topics programming and scripting languages C, C++, Python, Java, bash, c#, git, mysql. Committed to innovation and collaborative projects</h3>
+<h3 align="center">Specifically have knowledge in these programming and scripting languages C, C++, Python, Java, bash, c#, git, mysql. Committed to innovation and collaborative projects</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=proffaro&label=Profile%20views&color=0e75b6&style=flat" alt="proffaro" /> </p>
 
