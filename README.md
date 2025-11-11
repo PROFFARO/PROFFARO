@@ -626,7 +626,13 @@ security := map[string][]string{
 
 ### 💻 **Language Distribution & Expertise**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=proffaro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=FFFFFF&layout=donut-vertical&langs_count=12&card_width=400&border_radius=10" alt="Top Languages" />
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=proffaro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=FFFFFF&layout=donut-vertical&langs_count=12&card_width=450&border_radius=10" alt="Top Languages" />
+</p>
+
+<br/>
 
 ### 🏆 **Achievement Unlocked**
 
