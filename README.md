@@ -614,10 +614,10 @@ security := map[string][]string{
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=proffaro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=667eea&text_color=FFFFFF&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=PROFFARO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=667eea&text_color=FFFFFF&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=proffaro&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=667eea&fire=f093fb&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=8B8B8B&border_radius=10" alt="GitHub Streak" width="100%" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=PROFFARO&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=667eea&fire=f093fb&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=8B8B8B&border_radius=10" alt="GitHub Streak" width="100%" />
     </td>
   </tr>
 </table>
@@ -626,42 +626,44 @@ security := map[string][]string{
 
 ### 💻 **Language Distribution & Expertise**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=proffaro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=FFFFFF&layout=donut-vertical&langs_count=12&card_width=400&border_radius=10" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=PROFFARO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=FFFFFF&layout=donut-vertical&langs_count=12&card_width=400&border_radius=10" alt="Top Languages" />
 
 ### 🏆 **Achievement Unlocked**
 
-<img src="https://github-profile-trophy.vercel.app/?username=proffaro&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&margin-h=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A&border_color=667eea" alt="GitHub Trophies" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PROFFARO&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&margin-h=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&border_color=667eea" alt="GitHub Trophies" width="95%" />
+</p>
 
-### � **Contribution Activity Graph**
+### 📊 **Contribution Activity Graph**
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=proffaro&custom_title=Contribution%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=0D1117&color=667eea&line=667eea&point=f093fb&area_color=667eea&title_color=667eea&area=true" width="95%" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PROFFARO&custom_title=Contribution%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=0D1117&color=667eea&line=667eea&point=f093fb&area_color=667eea&title_color=667eea&area=true" width="95%" alt="Contribution Graph" />
 
 ### 🎯 **Detailed Code Analytics**
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=proffaro&theme=tokyonight" alt="Profile Details" width="95%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PROFFARO&theme=tokyonight" alt="Profile Details" width="95%" />
 
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=proffaro&theme=tokyonight" alt="Repos per Language" width="100%" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PROFFARO&theme=tokyonight" alt="Repos per Language" width="100%" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=proffaro&theme=tokyonight" alt="Most Commit Language" width="100%" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PROFFARO&theme=tokyonight" alt="Most Commit Language" width="100%" />
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=proffaro&theme=tokyonight" alt="Stats" width="100%" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PROFFARO&theme=tokyonight" alt="Stats" width="100%" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=proffaro&theme=tokyonight&utcOffset=5.5" alt="Productive Time" width="100%" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PROFFARO&theme=tokyonight&utcOffset=5.5" alt="Productive Time" width="100%" />
     </td>
   </tr>
 </table>
 
 ### 📈 **Contribution Heatmap**
 
-<img src="https://ghchart.rshah.org/667eea/proffaro" alt="GitHub Contribution Chart" width="95%" />
+<img src="https://ghchart.rshah.org/667eea/PROFFARO" alt="GitHub Contribution Chart" width="95%" />
 
 </div>
 
