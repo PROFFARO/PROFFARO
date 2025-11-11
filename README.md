@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,11,20&section=header&text=Dayananda%20Bindhani&fontSize=70&fontColor=fff&animation=twinkling&desc=Cybersecurity%20Student%20|%20Software%20Developer%20|%20Low-Level%20Programmer&descSize=22&descAlignY=60&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,11,20&section=header&text=Dayananda%20Bindhani&fontSize=70&fontColor=fff&animation=twinkling&desc=Cybersecurity%20Student%20|%20Software%20Developer%20|%20Low-Level%20Programmer&descSize=20&descAlignY=65&descAlign=50" width="100%"/>
 
 </div>
 
