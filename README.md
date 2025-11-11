@@ -8,7 +8,7 @@
 <!-- Animated Typing Effect -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=4000&pause=1000&color=667EEA&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=80&lines=Low+Level+Programming+%7C+Security+Expert;Building+Secure+%26+Scalable+Systems;AI%2FML+%7C+Cloud+Architecture+%7C+Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=4000&pause=1000&color=667EEA&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=200&lines=Low+Level+Programming+%7C+Security+Expert;Building+Secure+%26+Scalable+Systems;AI%2FML+%7C+Cloud+Architecture+%7C+Open+Source+Contributor" alt="Typing SVG" />
   </a>
 </p>
 
