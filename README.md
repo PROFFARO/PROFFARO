@@ -1,15 +1,25 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,11,20&section=header&text=Dayananda%20Bindhani&fontSize=70&fontColor=fff&animation=twinkling&desc=Cybersecurity%20Student%20|%20Software%20Developer%20|%20Low-Level%20Programmer&descSize=20&descAlignY=65&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,11,20&section=header&text=Dayananda%20Bindhani&fontSize=75&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Cybersecurity%20Student%20|%20Software%20Developer%20|%20Low-Level%20Programmer&descSize=20&descAlignY=55&descAlign=50" width="100%"/>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=45&duration=3000&pause=1000&color=667EEA&background=00000000&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Dayananda;Welcome+to+my+Profile!;Let's+Build+Something+Amazing!" alt="Greeting" />
+</h1>
 
 </div>
 
-<!-- Animated Typing Effect -->
+<!-- Glowing Animated Typing Effect -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=4000&pause=1000&color=667EEA&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=200&lines=Low+Level+Programming+%7C+Security+Expert;Building+Secure+%26+Scalable+Systems;AI%2FML+%7C+Cloud+Architecture+%7C+Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3500&pause=1000&color=667EEA&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1000&height=150&lines=%E2%9C%A8+Low-Level+Programming+%7C+Security+Expert;%F0%9F%9A%80+Building+Secure+%26+Scalable+Systems;%F0%9F%92%BB+AI%2FML+%7C+Cloud+Architecture+%7C+Open+Source" alt="Typing SVG" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-blueviolet?style=for-the-badge&logo=hackaday&logoColor=white" />
+  <img src="https://img.shields.io/badge/Passion-Low--Level_Programming-blue?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Learning-Always-success?style=for-the-badge&logo=bookstack&logoColor=white" />
 </p>
 
 <!-- Animated Divider -->
