@@ -1,14 +1,14 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=DAYANANDA%20BINDHANI&fontSize=70&color=0:667eea,50:764ba2,100:f093fb&stroke=667eea&strokeWidth=2&fontColor=fff&animation=fadeIn&desc=Cybersecurity%20Student%20%7C%20Software%20Developer%20%7C%20Low-Level%20Programmer&descSize=20&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Dayananda%20Bindhani&fontSize=70&color=0:667eea,50:764ba2,100:f093fb&stroke=667eea&strokeWidth=2&fontColor=fff&animation=fadeIn&desc=Cybersecurity%20Student%20%7C%20Software%20Developer%20%7C%20Low-Level%20Programmer&descSize=20&descAlignY=65" width="100%"/>
 
 </div>
 
 <!-- Animated Typing Effect -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=4000&pause=1000&color=667EEA&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=Low+Level+Programming+%7C+Security+Expert;Building+Secure+%26+Scalable+Systems;AI%2FML+%7C+Cloud+Architecture+%7C+Open+Source" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=4000&pause=1000&color=667EEA&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=Low+Level+Programming+%7C+Security+Expert;Building+Secure+%26+Scalable+Systems;AI%2FML+%7C+Cloud+Architecture+%7C+Open+Source+Contributor" alt="Typing SVG" />
   </a>
 </p>
 
@@ -30,11 +30,8 @@
   <a href="mailto:dayabindhani2005@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="40"/>
   </a>
-  <a href="https://leetcode.com/proffaro">
+  <a href="https://leetcode.com/u/PROFFARO/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" height="40"/>
-  </a>
-  <a href="https://stackoverflow.com/users/proffaro">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" height="40"/>
   </a>
 </p>
 
@@ -93,16 +90,14 @@ class CybersecurityEngineer:
                 "🔐 Penetration Testing & Ethical Hacking",
                 "🛡️ Network Security & Cryptography",
                 "🔍 Vulnerability Assessment & Analysis",
-                "🎯 Threat Intelligence & Incident Response"
             ],
-            "certifications": ["CEH (in progress)", "CompTIA Security+"]
         }
     
     def current_projects(self):
         return {
             "nexus": {
                 "description": "🍯 AI-Powered Honeypot System",
-                "tech_stack": ["Python", "TensorFlow", "Docker", "Flask"],
+                "tech_stack": ["Python", "Docker"],
                 "features": [
                     "Machine Learning-based threat detection",
                     "Real-time attack pattern analysis",
@@ -110,7 +105,7 @@ class CybersecurityEngineer:
                     "Distributed honeypot network"
                 ],
                 "status": "🚧 In Active Development",
-                "github": "github.com/proffaro/nexus"
+                "github": "(currently PRIVATE)"
             }
         }
     
@@ -128,10 +123,6 @@ class CybersecurityEngineer:
                 "platforms": ["Google Cloud Platform", "AWS"],
                 "tools": ["Docker", "Git", "Linux", "Nginx"]
             },
-            "ai_ml": {
-                "frameworks": ["TensorFlow", "PyTorch", "Scikit-learn"],
-                "applications": ["Threat Detection", "Anomaly Detection", "Pattern Recognition"]
-            }
         }
     
     def current_focus(self):
@@ -157,7 +148,7 @@ class CybersecurityEngineer:
         }
     
     def philosophy(self):
-        return "💡 Skills matter more than degrees | 🎯 Security is not a product, but a process"
+        return "💡 Skills matter more than degrees"
     
     def ask_me_about(self):
         return [
@@ -260,63 +251,41 @@ if __name__ == "__main__":
 <table>
   <tr>
     <th>Language</th>
-    <th>Proficiency Level</th>
     <th>Primary Use Case</th>
     <th>Years</th>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C"/></td>
-    <td>
-      <img src="https://progress-bar.dev/95/?scale=100&title=Expert&width=200&color=00599C" alt="95%"/>
-    </td>
     <td>Systems Programming</td>
     <td>4+ years</td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/></td>
-    <td>
-      <img src="https://progress-bar.dev/95/?scale=100&title=Expert&width=200&color=00599C" alt="95%"/>
-    </td>
     <td>High Performance Computing</td>
     <td>4+ years</td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/></td>
-    <td>
-      <img src="https://progress-bar.dev/90/?scale=100&title=Advanced&width=200&color=3776AB" alt="90%"/>
-    </td>
     <td>AI/ML & Security Automation</td>
     <td>3+ years</td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/></td>
-    <td>
-      <img src="https://progress-bar.dev/85/?scale=100&title=Advanced&width=200&color=ED8B00" alt="85%"/>
-    </td>
     <td>Enterprise Applications</td>
     <td>3+ years</td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash"/></td>
-    <td>
-      <img src="https://progress-bar.dev/90/?scale=100&title=Advanced&width=200&color=4EAA25" alt="90%"/>
-    </td>
     <td>DevOps & System Automation</td>
     <td>4+ years</td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#"/></td>
-    <td>
-      <img src="https://progress-bar.dev/55/?scale=100&title=Intermediate&width=200&color=239120" alt="55%"/>
-    </td>
     <td>.NET Development</td>
     <td>2+ years</td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/></td>
-    <td>
-      <img src="https://progress-bar.dev/85/?scale=100&title=Advanced&width=200&color=4479A1" alt="85%"/>
-    </td>
     <td>Database Management</td>
     <td>3+ years</td>
   </tr>
@@ -369,7 +338,7 @@ tools:
 #### ☁️ **Cloud & Infrastructure**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=gcp,aws,firebase,netlify&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=gcp,aws,firebase&theme=dark" />
 </p>
 
 ```yaml
@@ -386,7 +355,6 @@ platforms:
   
   deployment:
     - Firebase Hosting
-    - Netlify
 ```
 
 </td>
@@ -398,7 +366,7 @@ platforms:
 #### 🗄️ **Databases & Storage**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite,redis&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite&theme=dark" />
 </p>
 
 ```sql
@@ -412,7 +380,6 @@ ORDER BY experience DESC;
    - PostgreSQL (Advanced SQL)
    - MongoDB (NoSQL)
    - SQLite (Embedded)
-   - Redis (Caching)
 */
 ```
 
@@ -430,14 +397,12 @@ ml_stack = {
     "frameworks": [
         "TensorFlow",
         "PyTorch",
-        "Scikit-learn",
-        "Keras"
+        "Scikit-learn"
     ],
     "applications": [
         "Threat Detection",
         "Anomaly Detection",
-        "Pattern Recognition",
-        "Predictive Analysis"
+        "Pattern Recognition"
     ]
 }
 ```
@@ -471,12 +436,12 @@ ml_stack = {
       <sub>Exploitation</sub>
     </td>
     <td align="center" width="20%">
-      <img src="https://img.icons8.com/color/96/000000/burp-suite.png" width="64"/><br/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logo_burpsuite.jpg" width="64"/><br/>
       <b>Burp Suite</b><br/>
       <sub>Web Testing</sub>
     </td>
     <td align="center" width="20%">
-      <img src="https://img.icons8.com/color/96/000000/wireshark.png" width="64"/><br/>
+      <img src="https://preview.redd.it/i-made-a-macos-style-icon-for-wireshark-v0-20d6i256yjmc1.png?auto=webp&s=040d9169a7135056af07dc339f939d7fc7694619" width="64"/><br/>
       <b>Wireshark</b><br/>
       <sub>Network Analysis</sub>
     </td>
@@ -493,16 +458,16 @@ ml_stack = {
 ```bash
 # Security Tools Inventory
 ┌─────────────────────────────────────────────────────────────┐
-│ Category          │ Tools                                    │
+│ Category          │ Tools                                   │
 ├─────────────────────────────────────────────────────────────┤
-│ 🔍 Reconnaissance │ Nmap, Masscan, Shodan, theHarvester    │
-│ 🕵️ Scanning       │ Nessus, OpenVAS, Nikto, WPScan         │
-│ 💥 Exploitation   │ Metasploit, SQLMap, BeEF, Hydra        │
-│ 🌐 Web Testing    │ Burp Suite, OWASP ZAP, Nikto           │
-│ 📡 Network        │ Wireshark, tcpdump, Netcat, Ettercap   │
-│ 🔓 Password       │ John the Ripper, Hashcat, Hydra        │
+│ 🔍 Reconnaissance │ Nmap, Masscan, Shodan, theHarvester     │
+│ 🕵️ Scanning       │ Nessus, OpenVAS, Nikto, WPScan          │
+│ 💥 Exploitation   │ Metasploit, SQLMap, BeEF, Hydra         │
+│ 🌐 Web Testing    │ Burp Suite, OWASP ZAP, Nikto            │
+│ 📡 Network        │ Wireshark, tcpdump, Netcat, Ettercap    │
+│ 🔓 Password       │ John the Ripper, Hashcat, Hydra         │
 │ 🔐 Cryptography   │ OpenSSL, GPG, HashID                    │
-│ 📝 Reporting      │ Dradis, Faraday, KeepNote              │
+│ 📝 Reporting      │ Dradis, Faraday, KeepNote               │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -639,7 +604,7 @@ security := map[string][]string{
 
 ```ascii
 ╔══════════════════════════════════════════════════════════════╗
-║                    GITHUB PERFORMANCE METRICS                 ║
+║                    GITHUB PERFORMANCE METRICS                ║
 ╠══════════════════════════════════════════════════════════════╣
 ║  Status: Active Developer  │  Availability: Open to Collab   ║
 ║  Focus: Cybersecurity      │  Learning: Rust & Kernel Dev    ║
